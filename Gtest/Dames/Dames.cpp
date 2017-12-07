@@ -1,7 +1,19 @@
-// Dames.cpp : définit le point d'entrée pour l'application console.
-//
+#include <iostream>
+#include <vector>
+#include "Pions.h"
 
-#include "stdafx.h"
+using namespace std;
+
+
+
+vector<pion*> plateau;
+
+int main(int argc, char *argv)
+{
+
+
+	return 0;
+}
 
 
 
